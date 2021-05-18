@@ -1,4 +1,4 @@
-# SITANSHU_RANJAN
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +11,7 @@
         <input type="text" name="num1" placeholder="first number">
         <input type="text" name="num2" placeholder="second number">
        <button type="submit" name="submit">CALCULTOR</button>
-      <h3> sitanshu ranjan , email id--------  bit18ec122@bit.ac.in  </h3>
+      <h3><br> sitanshu ranjan <br>email id--------  bit18ec122@bit.ac.in  </h3>
     </form>
 </body>
 </html>
